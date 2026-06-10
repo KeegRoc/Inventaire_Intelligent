@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ba6082f7-1b81-4677-a505-c5e08a1c8166")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 220.98 85.09)
+		(size 30.48 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "141351b8-6297-4eef-8133-39430626abd0")
+		(property "Sheetname" "Utilisateur"
+			(at 220.98 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Utilisateur.kicad_sch"
+			(at 220.98 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projet_balance"
+				(path "/ba6082f7-1b81-4677-a505-c5e08a1c8166"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 54.61)
+		(size 36.83 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "639ad913-9a97-4901-9f05-8993bc0e58fa")
+		(property "Sheetname" "Microcontrôleur"
+			(at 124.46 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroleur.kicad_sch"
+			(at 124.46 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projet_balance"
+				(path "/ba6082f7-1b81-4677-a505-c5e08a1c8166"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 35.56)
+		(size 27.94 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "78fc10cf-f941-49f5-89a5-94440df19154")
+		(property "Sheetname" "Alimentation"
+			(at 52.07 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Alimentation.kicad_sch"
+			(at 52.07 53.9246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projet_balance"
+				(path "/ba6082f7-1b81-4677-a505-c5e08a1c8166"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 217.17 31.75)
+		(size 33.02 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d0e07455-a5bb-4202-ba87-d4c54a38bde3")
+		(property "Sheetname" "Poid"
+			(at 217.17 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "poid.kicad_sch"
+			(at 217.17 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Projet_balance"
+				(path "/ba6082f7-1b81-4677-a505-c5e08a1c8166"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
